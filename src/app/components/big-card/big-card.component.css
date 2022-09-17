@@ -15,9 +15,16 @@
   width: 100%;
 }
 
+.big-card_title > p{
+  color: grey;
+  margin-top: .625rem;
+  font-size: .625rem;
+  font-weight: 700;
+}
+
 .big-card_title > h1 {
   width: 100%;
-  margin-top: 1rem;
+  margin-top: .625rem;
   font-size: 1.25rem;
 }
 
@@ -27,6 +34,5 @@
 }
 
 .big-card_description > p > a {
-  color: grey;
-  
+  color: grey; 
 }

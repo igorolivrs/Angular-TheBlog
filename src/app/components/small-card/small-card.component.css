@@ -15,9 +15,20 @@
 }
 
 .small-card_title {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.small-card_title > p{
+    color: grey;
+    font-size: .625rem;
+    font-weight: 700;
+}
+
+.small-card_title > h1 > a {
+    font-size: 1.25rem;
+
 }
 
 .container_small-card_separator {
