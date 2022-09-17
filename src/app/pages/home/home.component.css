@@ -1,0 +1,17 @@
+.container_articles {
+    margin-top: 1.875rem;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.articles_main {
+    margin-right: 2rem;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}

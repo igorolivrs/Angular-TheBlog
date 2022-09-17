@@ -1,5 +1,7 @@
 # Blog
 
+Designed by [Dwinawan](https://dribbble.com/dwinawan) on [Dribbble](https://dribbble.com/shots/18089191-Blog-Layout)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
 ## Development server
