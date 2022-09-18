@@ -1,6 +1,8 @@
 # Blog
 
-Designed by [Dwinawan](https://dribbble.com/dwinawan) on [Dribbble](https://dribbble.com/shots/18089191-Blog-Layout)
+![blog](https://user-images.githubusercontent.com/97759282/190901940-3c6745c8-0925-4858-a88f-09520b340a32.png)
+
+* Designer inspired by: <a href="https://dribbble.com/shots/18089191-Blog-Layout" target="_blank">Dwinawan</a>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
