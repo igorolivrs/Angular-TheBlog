@@ -1,24 +1,24 @@
-.container_menu-title{
-    color: white;
+.container_menu-title {
+  color: var(--primary);
 }
 
-.container_menu-title > h1{
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    font-size: 6.25rem;
-    font-family: 'Segoe UI', Tahoma, sans-serif;
-    display: flex;
-    justify-content: center;
+.container_menu-title > h1 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-size: 6.25rem;
+  font-family: "Segoe UI", Tahoma, sans-serif;
+  display: flex;
+  justify-content: center;
 }
 
-.container_menu-title > hr{
-    margin-top: 1.25rem;
-    margin-bottom: 1.25rem;
+.container_menu-title > hr {
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
 }
 
 @media screen and (max-width: 820px) {
-    .container_menu-title > h1{
-        font-size: 4.375rem;
-        text-align: center;
-    }
+  .container_menu-title > h1 {
+    font-size: 4.375rem;
+    text-align: center;
+  }
 }
